@@ -1,0 +1,11 @@
+ {
+  "fields": {
+       "project": {
+           "key": "AM"
+       },
+       "summary": "Adding userstory from json file",
+       "issuetype": {
+           "name": "Add a name of issue"
+       }
+ }
+ }

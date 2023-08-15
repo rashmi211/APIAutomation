@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-08-15T13:55:31 IST" name="Default suite" finished-at="2023-08-15T13:55:34 IST" duration-ms="3102">
+    <groups>
+    </groups>
+    <test started-at="2023-08-15T13:55:31 IST" name="Default test" finished-at="2023-08-15T13:55:34 IST" duration-ms="3102">
+      <class name="advance.AddAttachment">
+        <test-method signature="logintoJira()[pri:1, instance:advance.AddAttachment@8dbdac1]" started-at="2023-08-15T13:55:31 IST" name="logintoJira" finished-at="2023-08-15T13:55:32 IST" duration-ms="1459" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logintoJira -->
+        <test-method signature="Createuserstory()[pri:2, instance:advance.AddAttachment@8dbdac1]" started-at="2023-08-15T13:55:32 IST" name="Createuserstory" finished-at="2023-08-15T13:55:32 IST" duration-ms="410" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Createuserstory -->
+        <test-method signature="addAttachment()[pri:3, instance:advance.AddAttachment@8dbdac1]" started-at="2023-08-15T13:55:32 IST" name="addAttachment" finished-at="2023-08-15T13:55:34 IST" duration-ms="1180" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addAttachment -->
+      </class> <!-- advance.AddAttachment -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
